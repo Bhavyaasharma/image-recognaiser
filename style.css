@@ -1,0 +1,17 @@
+body{
+    color: darkorchid;
+    background: cornflowerblue;
+    
+}
+.heading{
+    width: 80%;
+    font-size: 22;
+}
+.name_of_objects, #result_obect_name,#result_object_accuracy{
+    color: deeppink;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
